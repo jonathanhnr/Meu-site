@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #e4f9f5;
+  font-size: 100%;
+}
+h1 {
+  color: #66bfbf;
+  font-size: calc(5.625rem * 1);
+  margin-top: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+.topo-conteiner {
+  position: relative;
+  padding-top: 100px;
+}
+.meio-conteiner {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  max-width: 600px;
+}
+.img {
+  top: 300px;
+  position: absolute;
+  right: 10px;
+}
+.montanha {
+  position: relative;
+}
+.nuven {
+  position: relative;
+  top: 400px;
+  right: 300px;
+}
+.image {
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+.computer {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.linha {
+  border-top: dashed;
+  width: 5%;
+  margin-top: 80px;
+  color: gray;
+  margin-bottom: 80px;
+}
+.bottom-container {
+  background: #66bfbf;
+  margin-top: 5%;
+  padding-top: 100px;
+  padding-bottom: 10px;
+  color: #eaf6f6;
+}
+
+.bottom-container a {
+  padding: 10px;
+}
+
+.btn {
+  background: #11999e;
+
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.espaco {
+  text-align: center;
+  margin-bottom: 5%;
+}
